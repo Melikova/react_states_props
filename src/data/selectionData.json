@@ -1,0 +1,46 @@
+[{
+    "selection_data": {
+        "selection_one": {
+            "first": {
+                "value":"selection_first_one",
+                "option": "selection_first_one"
+            },
+            "second": {
+                "value":"selection_first_two",
+                "option": "selection_first_two"
+            },
+            "third": {
+                "value":"selection_first_three",
+                "option": "selection_first_three"
+            }
+        },
+		"selection_two": {
+            "first": {
+                "value":"selection_second_one",
+                "option": "selection_second_one"
+            },
+            "second": {
+                "value":"selection_second_two",
+                "option": "selection_second_two"
+            },
+            "third": {
+                "value":"selection_second_third",
+                "option": "selection_second_third"
+            }
+        },
+        "selection_three": {
+            "first": {
+                "value":"selection_third_one",
+                "option": "selection_third_one"
+            },
+            "second": {
+                "value":"selection_third_two",
+                "option": "selection_third_two"
+            },
+            "third": {
+                "value":"selection_third_third",
+                "option": "selection_third_third"
+            }
+        }
+    }
+}]
